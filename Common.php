@@ -184,5 +184,6 @@ class Common extends Controller
 	const FORBID_WARM = '是否确认禁用该记录,禁用后在维护数据时,将无法使用该字典项!';
 	const UPLOAD_SUC = '上传成功';
 	const UPLOAD_SAV_ERR = '图片保存失败';
+	const UPLOAD_SAV_ERR1 = '测试';
 
 }
